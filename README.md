@@ -13,7 +13,7 @@
 ╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
 ```
 
-### `Turning Raw Data into Decisions` · `CS Final Year Student` · `Aspiring Data Analyst`
+### `Turning Raw Data into Decisions` · `IT Final Year Student` · `Aspiring Data Analyst`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharaj-barad-8401aa2b8)
 [![GitHub followers](https://img.shields.io/github/followers/siddharajbarad7?style=for-the-badge&color=0D1117&labelColor=161B22&logo=github)](https://github.com/siddharajbarad7)
