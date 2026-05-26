@@ -36,7 +36,7 @@ siddharaj = {
 }
 ```
 
-> I'm a **final-year CS student** who loves digging into datasets, asking sharp questions, and building analyses that actually mean something. I work across the full data pipeline — from raw, messy CSVs all the way to polished dashboards and business insights.
+> I'm a **final-year IT student** who loves digging into datasets, asking sharp questions, and building analyses that actually mean something. I work across the full data pipeline — from raw, messy CSVs all the way to polished dashboards and business insights.
 
 ---
 
