@@ -56,22 +56,43 @@ I enjoy solving real-world problems using data and building scalable analytics s
 
 ## 🚀 Featured Projects
 
-### 📊 Ecommerce Sales Dashboard
+### 📊 Ecommerce Sales Dashboard — Power BI
 
-* Built interactive Power BI dashboard
-* Identified revenue trends & customer behavior
-* Delivered actionable business insights
+> Interactive dashboard analyzing ecommerce sales across India with insights on revenue, profit, and customer trends.
+
+🔗 **View Project:** *(Add your Power BI / GitHub link here)*
+`Power BI` `DAX` `ETL` `Data Modeling`
+
+---
 
 ### 🎵 Spotify Trends Analysis
 
-* ML-based analysis of music trends
-* Identified factors influencing popularity
+> ML-based analysis exploring what drives music popularity.
+
+<a href="https://github.com/siddharajbarad7/Spotify-Trends-Analysis-Project">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
 
 ### 🛍️ Retail Sales EDA
 
-* Explored trends, seasonality, customer insights
+> Analysis of sales trends, seasonality, and customer behavior.
+
+<a href="https://github.com/siddharajbarad7/Exploratory-Data-Analysis-EDA-on-Retail-Sales-Data">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
+
+### 🏠 Airbnb Data Cleaning
+
+> Data cleaning and preprocessing project using real-world dataset.
+
+<a href="https://github.com/siddharajbarad7/airbnb_data_cleaning">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 
 ## 📊 GitHub Stats
 
