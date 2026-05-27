@@ -41,18 +41,18 @@ I enjoy solving real-world problems using data and building scalable analytics s
 
 ---
 
-## ⚙️ Tech Stack
+### 📊 Data Analysis & Libraries
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,aws,git,github" />
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white"/>
 </p>
-
----
 
 ## 🚀 Featured Projects
 
