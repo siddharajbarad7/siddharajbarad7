@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-🚀 Transforming Data into Insights • Future Data Scientist
+🚀 Data Analyst | Turning Data into Insights • Future Data Scientist
 </p>
 
 <p align="center">
