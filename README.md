@@ -1,21 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                  SIDDHARAJ BARAD — GITHUB PROFILE README       -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-███████╗██╗██████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗      ██╗    ██████╗  █████╗ ██████╗  █████╗ ██████╗ 
-██╔════╝██║██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗     ██║    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-███████╗██║██║  ██║██║  ██║███████║███████║██████╔╝███████║     ██║    ██████╔╝███████║██████╔╝███████║██║  ██║
-╚════██║██║██║  ██║██║  ██║██╔══██║██╔══██║██╔══██╗██╔══██║██   ██║    ██╔══██╗██╔══██║██╔══██╗██╔══██║██║  ██║
-███████║██║██████╔╝██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║╚█████╔╝    ██████╔╝██║  ██║██║  ██║██║  ██║██████╔╝
-╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝     ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
-```
-
-### `Final Year B.Tech (IT) Student` · `Data Analyst` · `Open to Internships`
+<h1 align="center">Hi 👋, I'm Siddharaj Barad</h1> <h3 align="center">🚀 Data Analyst | Aspiring Data Scientist | AI Enthusiast</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/siddharaj-barad-8401aa2b8)
 [![GitHub followers](https://img.shields.io/github/followers/siddharajbarad7?style=for-the-badge\&color=0D1117\&labelColor=161B22\&logo=github)](https://github.com/siddharajbarad7)
