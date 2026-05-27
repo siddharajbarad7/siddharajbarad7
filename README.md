@@ -93,6 +93,7 @@ I enjoy solving real-world problems using data and building scalable analytics s
 </p>
 
 
+
 ## 🚀 Featured Projects
 
 ### 📊 Ecommerce Sales Dashboard — Power BI
@@ -103,6 +104,7 @@ I enjoy solving real-world problems using data and building scalable analytics s
 `Power BI` `DAX` `ETL` `Data Modeling`
 
 ---
+
 
 ### 🎵 Spotify Trends Analysis
 
