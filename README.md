@@ -41,6 +41,16 @@ I enjoy solving real-world problems using data and building scalable analytics s
 
 ---
 
+## ⚙️ Tech Stack
+
+### 🧠 Languages & Query
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+---
+
 ### 📊 Data Analysis & Libraries
 
 <p>
@@ -51,8 +61,37 @@ I enjoy solving real-world problems using data and building scalable analytics s
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white"/>
 </p>
+
+---
+
+### 📈 Visualization & BI Tools
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws" />
+</p>
+
+---
+
+### 🔍 Core Concepts
+
+<p>
+<img src="https://img.shields.io/badge/ETL-0A0A0A?style=flat"/>
+<img src="https://img.shields.io/badge/EDA-0A0A0A?style=flat"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-0A0A0A?style=flat"/>
+</p>
+
 
 ## 🚀 Featured Projects
 
